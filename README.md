@@ -3,9 +3,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
-
-
+💻 Eu sou um desenvolvedor [Back-End]
 
 🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) na [Cubos Academy](https://cubos.academy/).
 
