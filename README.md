@@ -1,5 +1,5 @@
 
-# Oi, me chamo Milton Vargas Junior 👋
+# Hi, I'm Milton de Vargas Junior 👋
 
 ### Sobre mim
 
